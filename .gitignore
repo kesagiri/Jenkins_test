@@ -1,0 +1,8 @@
+$ cat .gitignore
+
+.sfdx/
+.idea/
+packages/
+config/custom-settings-test.json
+IlluminatedCloud/
+projectFilesBackup/
