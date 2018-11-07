@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SalesGroup</fullName>
+    <fields>RecordTypeName__c</fields>
+    <fields>Name</fields>
+    <fields>SapId__c</fields>
+    <fields>ParentId__c</fields>
+    <fields>isReturnEnable__c</fields>
+    <fields>MoveTime__c</fields>
+    <label>Sales Group</label>
+</CompactLayout>
