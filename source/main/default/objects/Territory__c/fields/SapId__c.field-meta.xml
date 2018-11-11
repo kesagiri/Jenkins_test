@@ -4,8 +4,8 @@
     <caseSensitive>false</caseSensitive>
     <description>Unique, External ID</description>
     <externalId>true</externalId>
-    <label>SAP Код</label>
-    <length>247</length>
+    <label>SAP_Код</label>
+    <length>249</length>
     <required>true</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
