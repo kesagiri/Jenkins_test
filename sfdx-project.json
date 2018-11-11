@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "source/objects"
+      "path": "source/objects",
       "default": true
     },
 	{
-      "path": "source/classes"
+      "path": "source/classes",
       "default": false
     }
   ],
