@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CompactLayout</name>
+    <members>Territory__c.BU</members>
+    <members>Territory__c.Region</members>
+    <members>Territory__c.SalesGroup</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Territory__c.MoveTime__c</members>
+    <members>Territory__c.ParentId__c</members>
+    <members>Territory__c.RecordTypeName__c</members>
+    <members>Territory__c.SapId__c</members>
+    <members>Territory__c.isForAssortmentUpdate__c</members>
+    <members>Territory__c.isReturnEnable__c</members>
+  </types>
+  <types>
+    <name>RecordType</name>
+    <members>Territory__c.BU</members>
+    <members>Territory__c.Region</members>
+    <members>Territory__c.SalesGroup</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Territory__c</members>
+  </types>
+  <version>43.0</version>
+</Package>
