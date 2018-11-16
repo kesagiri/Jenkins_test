@@ -4,7 +4,7 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <description>Привязка к территориальной иерархии (SALES GROUP &gt; BU &gt; REGION)</description>
     <externalId>false</externalId>
-    <label>Родительс Территория</label>
+    <label>Родительская Территория</label>
     <referenceTo>Territory__c</referenceTo>
     <relationshipLabel>Дочерние Территории</relationshipLabel>
     <relationshipName>ChildTerritories</relationshipName>
