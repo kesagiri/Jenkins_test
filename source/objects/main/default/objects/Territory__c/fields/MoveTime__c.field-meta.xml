@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>MoveTime__c</fullName>
     <defaultValue>15</defaultValue>
-    <description>Значение поzz sdfsdfsумолчаниюss: 54</description>
+    <description>Значение поzz умолчаниюss: 55</description>
     <externalId>false</externalId>
     <label>Время на переезд (Мин)</label>
     <precision>4</precision>
