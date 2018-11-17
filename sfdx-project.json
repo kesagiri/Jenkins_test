@@ -1,15 +1,25 @@
 {
-  "packageDirectories": [
-    {
-      "path": "source/objects",
-      "default": true
-    },
-	{
-      "path": "source/classes",
-      "default": false
+    "packageDirectories": [
+        {
+            "path": "source/objects",
+            "default": true,
+            "package": "Objects",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "source/classes",
+            "default": false,
+            "package": "classes",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "Objects": "0Ho1t000000fxbNCAQ",
+        "classes": "0Ho1t000000fxbSCAQ"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "43.0"
 }
